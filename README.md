@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My GitHub Stats
-[![qibaoyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qibaoyuan)](https://github.com/qibaoyuan/)
+
+### 📊 My GitHub Stats
+
+<div align="center">
+    <a href="https://github.com/qibaoyuan">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=qibaoyuan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="qibaoyuan" />
+    </a>
+</div>
